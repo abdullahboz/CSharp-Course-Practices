@@ -1,0 +1,8 @@
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\Practices5\bin\Debug\Practices5.exe.config
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\Practices5\bin\Debug\Practices5.exe
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\Practices5\bin\Debug\Practices5.pdb
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\Practices5\obj\Debug\PracticeReflection.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\Practices5\obj\Debug\PracticeReflection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\Practices5\obj\Debug\PracticeReflection.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\Practices5\obj\Debug\Practices5.exe
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\Practices5\obj\Debug\Practices5.pdb
