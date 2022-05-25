@@ -1,0 +1,11 @@
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame2\bin\Debug\MiniGame2.exe.config
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame2\bin\Debug\MiniGame2.exe
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame2\bin\Debug\MiniGame2.pdb
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame2\obj\Debug\MiniGame2.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame2\obj\Debug\MiniGame2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame2\obj\Debug\MiniGame2.Form1.resources
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame2\obj\Debug\MiniGame2.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame2\obj\Debug\MiniGame2.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame2\obj\Debug\MiniGame2.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame2\obj\Debug\MiniGame2.exe
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame2\obj\Debug\MiniGame2.pdb
