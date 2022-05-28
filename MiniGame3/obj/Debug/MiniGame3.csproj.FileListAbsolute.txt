@@ -1,0 +1,8 @@
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame3\bin\Debug\MiniGame3.exe.config
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame3\bin\Debug\MiniGame3.exe
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame3\bin\Debug\MiniGame3.pdb
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame3\obj\Debug\MiniGame3.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame3\obj\Debug\MiniGame3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame3\obj\Debug\MiniGame3.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame3\obj\Debug\MiniGame3.exe
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\MiniGame3\obj\Debug\MiniGame3.pdb
