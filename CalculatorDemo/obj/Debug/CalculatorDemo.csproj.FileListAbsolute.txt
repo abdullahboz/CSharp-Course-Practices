@@ -1,0 +1,11 @@
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\CalculatorDemo\bin\Debug\CalculatorDemo.exe.config
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\CalculatorDemo\bin\Debug\CalculatorDemo.exe
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\CalculatorDemo\bin\Debug\CalculatorDemo.pdb
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\CalculatorDemo\obj\Debug\CalculatorDemo.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\CalculatorDemo\obj\Debug\CalculatorDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\CalculatorDemo\obj\Debug\CalculatorDemo.Form1.resources
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\CalculatorDemo\obj\Debug\CalculatorDemo.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\CalculatorDemo\obj\Debug\CalculatorDemo.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\CalculatorDemo\obj\Debug\CalculatorDemo.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\CalculatorDemo\obj\Debug\CalculatorDemo.exe
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\CalculatorDemo\obj\Debug\CalculatorDemo.pdb
