@@ -1,0 +1,11 @@
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\NumberGuessing\bin\Debug\NumberGuessing.exe.config
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\NumberGuessing\bin\Debug\NumberGuessing.exe
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\NumberGuessing\bin\Debug\NumberGuessing.pdb
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\NumberGuessing\obj\Debug\NumberGuessing.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\NumberGuessing\obj\Debug\NumberGuessing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\NumberGuessing\obj\Debug\NumberGuessing.Form1.resources
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\NumberGuessing\obj\Debug\NumberGuessing.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\NumberGuessing\obj\Debug\NumberGuessing.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\NumberGuessing\obj\Debug\NumberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\NumberGuessing\obj\Debug\NumberGuessing.exe
+C:\Users\Abdullah\Desktop\BeginnerCSharpMiniCodes\Practices\NumberGuessing\obj\Debug\NumberGuessing.pdb
