@@ -1,0 +1,11 @@
+C:\Users\Abdullah\Desktop\Görsel Programlama FinalÇalışma\GorselProgramlamaFinalCalisma\MatrisCalisma\bin\Debug\MatrisCalisma.exe.config
+C:\Users\Abdullah\Desktop\Görsel Programlama FinalÇalışma\GorselProgramlamaFinalCalisma\MatrisCalisma\bin\Debug\MatrisCalisma.exe
+C:\Users\Abdullah\Desktop\Görsel Programlama FinalÇalışma\GorselProgramlamaFinalCalisma\MatrisCalisma\bin\Debug\MatrisCalisma.pdb
+C:\Users\Abdullah\Desktop\Görsel Programlama FinalÇalışma\GorselProgramlamaFinalCalisma\MatrisCalisma\obj\Debug\MatrisCalisma.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\Görsel Programlama FinalÇalışma\GorselProgramlamaFinalCalisma\MatrisCalisma\obj\Debug\MatrisCalisma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdullah\Desktop\Görsel Programlama FinalÇalışma\GorselProgramlamaFinalCalisma\MatrisCalisma\obj\Debug\MatrisCalisma.Form1.resources
+C:\Users\Abdullah\Desktop\Görsel Programlama FinalÇalışma\GorselProgramlamaFinalCalisma\MatrisCalisma\obj\Debug\MatrisCalisma.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\Görsel Programlama FinalÇalışma\GorselProgramlamaFinalCalisma\MatrisCalisma\obj\Debug\MatrisCalisma.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\Görsel Programlama FinalÇalışma\GorselProgramlamaFinalCalisma\MatrisCalisma\obj\Debug\MatrisCalisma.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\Görsel Programlama FinalÇalışma\GorselProgramlamaFinalCalisma\MatrisCalisma\obj\Debug\MatrisCalisma.exe
+C:\Users\Abdullah\Desktop\Görsel Programlama FinalÇalışma\GorselProgramlamaFinalCalisma\MatrisCalisma\obj\Debug\MatrisCalisma.pdb
